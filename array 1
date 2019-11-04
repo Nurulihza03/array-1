@@ -6,7 +6,7 @@ int main()
   int n,hasil=0;
   int i;
   for (i=0; i<5; i++){
-    cout <<"Input umur ke-" << (i=1)<< " = ";
+    cout <<"Input umur ke-" << (i)<< " = ";
     cin >> umur [i];
   }
     for (n=0 ; n<5 ; ++n)
